@@ -1,0 +1,4 @@
+input	example_dir/PanACEA.flatfile.txt
+function	example_dir/func_file.conf.txt
+tree	example_dir/genome.tree
+fasta	plugins/PanChromosome/example/example_dir/cluster_alignments/,plugins/PanChromosome/example/example_dir/combined.fasta

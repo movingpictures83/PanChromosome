@@ -1,0 +1,2 @@
+Prefix plugins/PanChromosome/example/
+Plugin PanChromosome inputfile parameters.panchromosome.txt outputfile ./

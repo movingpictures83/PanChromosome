@@ -1,0 +1,16 @@
+START
+ID	AROTerms
+mapfile	plugins/PanChromosome/example/example_dir/aro_centroid.list.txt
+ontology	plugins/PanChromosome/example/example_dir/aro.obo
+name	Antibiotic Resistance
+color	ff0000
+END
+
+START
+ID	GOTerms
+mapfile	plugins/PanChromosome/example/example_dir/centroids.mapterm.txt
+ontology	plugins/PanChromosome/example/example_dir/gene_ontology.1_2.obo
+name	plugins/PanChromosome/example/example_dir/results/centroids.cluster_roles.txt
+color	plugins/PanChromosome/example/cluster_colors.txt
+END
+
