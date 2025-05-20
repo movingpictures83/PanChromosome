@@ -115,7 +115,7 @@ my %file_data;
 
 sub input {
 	$cr_start = 0;
-$output_id      = "PanACEA";
+$output_id      = "";
    open(FH, '<', $_[0])
      or die "Could not open file '$_[0]' $!";
    while (<FH>)
